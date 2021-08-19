@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/70/33/50/70335090fc8b3ad71a790e88519d52e3.jpg)
+![I am GitHub Readme Generator's creator](https://i.pinimg.com/736x/60/4a/dc/604adc90a7ba80ffc7457d7b8510fcbb.jpg)
 
 # <p align='center'>Hi there, I'm Adrian Camacho 👋</p>
 
