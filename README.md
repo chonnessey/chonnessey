@@ -28,6 +28,8 @@ Creative and forward-thinking Junior Stack Developer with a keen eye in creating
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="45" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" height="45" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" height="45" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="45" style="vertical-align:top; margin:4px"/>
+<img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" style="vertical-align:top; margin:4px"/>
 </div>
 
 ## Stats:
