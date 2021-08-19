@@ -12,7 +12,7 @@ Creative and forward-thinking Junior Stack Developer with a keen eye in creating
 ___
 
 ## Connect With Me:
-[<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ffr%2Ficone%2Flogo-github%2F143196&psig=AOvVaw1E2jZlGCF_sk2rWkD6GUEe&ust=1629442442867000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjCibDAvPICFQAAAAAdAAAAABAT' alt='github' height='40'>](https://github.com/chonnessey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adrian-camacho-epicodus/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chonnessey/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/chonnessey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/adrian-camacho-epicodus/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/chonnessey/)  
 
 ___
 
