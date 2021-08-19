@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://miro.medium.com/max/4800/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
+![I am GitHub Readme Generator's creator](https://thumbs.dreamstime.com/b/programming-language-coding-banner-compilation-css-technology-210006161.jpg)
 
 ## Hi there, I'm Adrian Camacho 👋
 
