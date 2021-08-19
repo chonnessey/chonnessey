@@ -1,16 +1,16 @@
 ## Hi there, I'm Adrian Camacho 👋
 
+Junior Full Stack Developer with a passion in creating intuitive, beautiful and easy to use websites.
+
 ___
 
 - 🔭 I’m currently working on [Mock PDX Burger Week](https://github.com/chonnessey/pdx_burger_week)
 - 🌱 I’m currently learning Ruby and React.
 - 💬 Ask me about anything tech related!
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 ___
 
-#### How to reach me 📫 :
+#### Where to reach me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chonnessey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adrian-camacho-epicodus/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chonnessey/)  
 
 ___
