@@ -1,8 +1,6 @@
 ### Hi there, I'm Adrian Camacho 👋
 
-
-
-Here are some ideas to get you started:
+___
 
 - 🔭 I’m currently working on [Mock PDX Burger Week](https://github.com/chonnessey/pdx_burger_week)
 - 🌱 I’m currently learning Ruby and React.
@@ -10,6 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+___
 
 <div>
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=chonnessey&show_icons=true&count_private=true&theme=radical" width="53%" />
