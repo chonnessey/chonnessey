@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**chonnessey/chonnessey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=chonnessey&show_icons=true&count_private=true&theme=radical" width="53%" />
+
+<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chonnessey&layout=compact&theme=radical" width="44%"/>
+</div>
