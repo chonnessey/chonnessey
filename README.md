@@ -1,4 +1,4 @@
-### Hi there, I'm Adrian Camacho 👋
+## Hi there, I'm Adrian Camacho 👋
 
 ___
 
@@ -8,6 +8,11 @@ ___
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+___
+
+#### How to reach me 📫 :
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chonnessey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adrian-camacho-epicodus/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chonnessey/)  
+
 ___
 
 <div>
