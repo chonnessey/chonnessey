@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chonnessey&layout=compact&theme=radical" width="44%"/>
 </div>
+
+_**NOTE**: Top languages does not indicate my skill level of that specific language, it's a github metric of which languages I have the most code on github, it's a new feature of
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
