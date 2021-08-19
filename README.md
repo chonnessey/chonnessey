@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](http://bisqwit.iki.fi/jutut/kuvat/animmerger/method-sl30.gif)
+![I am GitHub Readme Generator's creator](https://upload.wikimedia.org/wikipedia/commons/0/0f/Wv_Tokyo_banner.jpg)
 
 # <p align='center'>Hi there, I'm Adrian Camacho 👋</p>
 
