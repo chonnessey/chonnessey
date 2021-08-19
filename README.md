@@ -16,6 +16,10 @@ ___
 
 ___
 
+## Languages and Tools:
+___
+
+## Stats:
 <div>
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=chonnessey&show_icons=true&count_private=true&theme=radical" width="53%" />
 
