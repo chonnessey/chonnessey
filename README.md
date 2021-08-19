@@ -1,6 +1,6 @@
 ## <p align='center'>Hi there, I'm Adrian Camacho 👋</p>
 
-![I am GitHub Readme Generator's creator](https://thumbs.dreamstime.com/b/programming-language-coding-banner-compilation-css-technology-210006161.jpg)
+![I am GitHub Readme Generator's creator](https://t4.ftcdn.net/jpg/04/04/73/39/360_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg)
 
 Creative and forward-thinking Junior Stack Developer with a keen eye in creating intuitive digital design projects. I've spent the last 7 years honing in my soft skills in the service industry and am more than ready to make the transition into web development.
 
