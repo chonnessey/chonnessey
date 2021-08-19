@@ -1,10 +1,9 @@
-![I am GitHub Readme Generator's creator](https://thumbs.dreamstime.com/b/programming-language-coding-banner-compilation-css-technology-210006161.jpg)
-
 ## Hi there, I'm Adrian Camacho 👋
 
-Junior Full Stack Developer with a passion in creating intuitive, beautiful and easy to use websites.
+![I am GitHub Readme Generator's creator](https://thumbs.dreamstime.com/b/programming-language-coding-banner-compilation-css-technology-210006161.jpg)
 
-___
+Creative and forward-thinking Junior Stack Developer with a keen eye in creating intuitive digital design projects. I've spent the last 7 years honing in my soft skills in the service industry and am more than ready to make the transition into web development.
+
 
 - 🔭 I’m currently working on [Mock PDX Burger Week](https://github.com/chonnessey/pdx_burger_week)
 - 🌱 I’m currently learning Ruby and React.
