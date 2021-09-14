@@ -6,7 +6,7 @@ Creative and forward-thinking Junior Full Stack Developer with a keen eye in cre
 
 
 - 🔭 I’m currently working on [Mock PDX Burger Week](https://github.com/chonnessey/pdx_burger_week)
-- 🌱 I’m currently learning Ruby and React.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about anything tech related!
 - 😄 Pronouns: He/Him
 
