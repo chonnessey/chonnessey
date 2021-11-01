@@ -1,4 +1,4 @@
-![canva banner](https://media-exp1.licdn.com/dms/image/C4E16AQG_7Jm4MfZN7g/profile-displaybackgroundimage-shrink_350_1400/0/1635740562242?e=1641427200&v=beta&t=k0isly8CobjC0y3nQfyI1yhGMt3JisitB-wOYbyGEDI)
+![canva banner](https://media-exp1.licdn.com/dms/image/C4E16AQGfDIX_2J6bjQ/profile-displaybackgroundimage-shrink_350_1400/0/1635786159433?e=1641427200&v=beta&t=nzdPV0XqWLCEuiY0kxox88lQkVXRmTHw3zYiLZy9bnI)
 
 # <p align='center'>👋</p>
 
