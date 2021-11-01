@@ -1,6 +1,6 @@
-![I am GitHub Readme Generator's creator](https://cdnb.artstation.com/p/assets/images/images/012/997/351/large/joe-griffin-redbubble-banner-art.jpg?1537545420)
+![canva banner](https://media-exp1.licdn.com/dms/image/C4E16AQG_7Jm4MfZN7g/profile-displaybackgroundimage-shrink_350_1400/0/1635740562242?e=1641427200&v=beta&t=k0isly8CobjC0y3nQfyI1yhGMt3JisitB-wOYbyGEDI)
 
-# <p align='center'>Hi there, I'm Adrian Camacho 👋</p>
+# <p align='center'>👋</p>
 
 Creative and forward-thinking Junior Full Stack Developer with a keen eye in creating intuitive digital design projects. I've spent the last 7 years honing in my soft skills in the service industry and am more than ready to make the transition into web development.
 
