@@ -2,12 +2,12 @@
 
 # <p align='center'>👋</p>
 
-Creative and forward-thinking Junior Full Stack Developer with a keen eye in creating intuitive digital design projects. I've spent the last 7 years honing in my soft skills in the service industry and am more than ready to make the transition into web development.
+Creative and forward thinking Full Stack Developer. I've spent the last 2 years immersing myself into the web development world and I couldn't be happier to have taken the plunge. I have an appetite to keep learning new technologies and methods in order to make the web experience accesible and enjoyable for everyone.
 
 
 - 🔭 I’m currently working on [EightySixed](https://github.com/chonnessey/capstone-86ed)
-- 🌱 I’m currently learning React.
-- 💬 Ask me about anything tech related!
+- 🌱 I’m currently learning Python and Solidity.
+- 💬 Ask me about anything tech, crypto and sports related!
 - 😄 Pronouns: He/Him
 
 ## Connect With Me:
