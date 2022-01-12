@@ -1,4 +1,4 @@
-![canva banner](https://media-exp1.licdn.com/dms/image/C4E16AQGfDIX_2J6bjQ/profile-displaybackgroundimage-shrink_350_1400/0/1635786159433?e=1641427200&v=beta&t=nzdPV0XqWLCEuiY0kxox88lQkVXRmTHw3zYiLZy9bnI)
+![canva banner](https://cdn.shopify.com/s/files/1/1159/1216/collections/Portland_Trailblazers_Banner_1200x.jpg?v=1502827742)
 
 # <p align='center'>👋</p>
 
