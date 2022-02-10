@@ -6,7 +6,7 @@ Creative and forward thinking Full Stack Developer. I've spent the last 2 years 
 
 
 - 🔭 I’m currently working on [EightySixed](https://github.com/chonnessey/capstone-86ed)
-- 🌱 I’m currently learning Python and Solidity.
+- 🌱 I’m currently learning Python and TypeScript.
 - 💬 Ask me about anything tech, crypto and sports related!
 - 😄 Pronouns: He/Him
 
