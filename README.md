@@ -5,7 +5,7 @@
 Creative and forward thinking Full Stack Developer. I've spent the last 2 years immersing myself into the web development world and I couldn't be happier to have taken the plunge. I have an appetite to keep learning new technologies and methods in order to make the web experience accesible and enjoyable for everyone.
 
 
-- 🔭 I’m currently working on [EightySixed](https://github.com/chonnessey/capstone-86ed)
+- 🔭 I’m currently working on [JS-codebox](https://github.com/chonnessey/js-code-box)
 - 🌱 I’m currently learning Python and TypeScript.
 - 💬 Ask me about anything tech, crypto and sports related!
 - 😄 Pronouns: He/Him
